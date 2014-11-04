@@ -1,0 +1,15 @@
+---
+title: budget control system
+subtitle: 
+layout: default
+modal-id: 1
+date: 2014-04-15
+img: budget_control_system.png
+thumbnail: budget_control_system_n.png
+alt: image-alt
+project-date: Mar 2014
+client: Richardson City Library
+category: Budget Control 
+description: Utilized budget control system on Richardson City Library Construction Project.
+
+---

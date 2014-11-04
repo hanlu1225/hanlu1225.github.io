@@ -19,9 +19,9 @@ people:
   position: M.S. in Supply Chain Management
   social:
     - title: linkedin
-      url: www.linkedin.com/in/luvanessahan
+      url: # www.linkedin.com/in/luvanessahan
     - title: google
-      url: hanlu1225
+      url: # hanlu1225
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

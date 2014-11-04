@@ -631,8 +631,6 @@ section h3.section-subheading {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .team-member img {
@@ -843,12 +841,12 @@ ul.social-buttons li a:active {
 }
 
 ::-moz-selection {
-    text-shadow: none;
+    text-shadow: 4px 4px 4px #000000;
     background: #{{ site.color.primary }};
 }
 
 ::selection {
-    text-shadow: none;
+    text-shadow: 4px 4px 4px #000000;
     background: #{{ site.color.primary }};
 }
 

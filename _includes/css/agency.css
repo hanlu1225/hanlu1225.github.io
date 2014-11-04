@@ -841,12 +841,12 @@ ul.social-buttons li a:active {
 }
 
 ::-moz-selection {
-    text-shadow: none;
+    text-shadow: 2px 2px 4px #000000;
     background: #{{ site.color.primary }};
 }
 
 ::selection {
-    text-shadow: none;
+    text-shadow: 2px 2px 4px #000000;
     background: #{{ site.color.primary }};
 }
 

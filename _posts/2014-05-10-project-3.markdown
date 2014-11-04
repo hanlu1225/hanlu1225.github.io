@@ -1,0 +1,15 @@
+---
+title: budget analysis
+subtitle: 
+layout: default
+modal-id: 3
+date: 2014-05-10
+img: budget_analysis.png
+thumbnail: budget_analysis_n.png
+alt: image-alt
+project-date: May 2014
+client: Richardson City Library
+category: Budget Analysis
+description: Analysis budget cost on Richardson City Library construction project.
+
+---
