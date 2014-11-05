@@ -1,5 +1,5 @@
 ---
-title: budget control system
+title: BUDGET CONTROL SYSTEM
 subtitle: 
 layout: default
 modal-id: 1

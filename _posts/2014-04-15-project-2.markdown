@@ -1,5 +1,5 @@
 ---
-title: demand analysis
+title: DEMAND ANALYSIS
 subtitle: 
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Apr 2014
 client: Demand Analysis on Gulf CLub
 category: Demand Analysis and Forecast
-description: Utized spreadsheet modelling on demand analysis for target market.
+description: Utilized spreadsheet modelling on demand analysis for target market.
 
 ---
